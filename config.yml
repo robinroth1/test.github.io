@@ -1,0 +1,5 @@
+title: Cartographie
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-mermaid
